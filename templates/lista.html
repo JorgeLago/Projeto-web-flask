@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Jogoteca</title>
+    <title>Minha Jogoteca</title>
     <link rel="stylesheet" href="../static/bootstrap.css">
   </head>
   <body>
@@ -17,6 +17,7 @@
                     <th>Nome</th>
                     <th>Categoria</th>
                     <th>Console</th>
+                    <th>Multiplayer</th>
                 </tr>
             </thead>
             <tbody>
@@ -25,6 +26,7 @@
                     <td>{{ jogo.nome }}</td>
                     <td>{{ jogo.categoria }}</td>
                     <td>{{ jogo.console }}</td>
+                    <td>{{ jogo.multiplayer }}</td>
                 </tr>
                 {% endfor %}
 
