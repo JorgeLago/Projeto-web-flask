@@ -1,10 +1,12 @@
-<h1> Iniciando estudos em Flask, aplicado a Python !</h1>
+<h1> Biblioteca de Jogos que pretendo jogar - Usando conhecimentos em Flask aplicado a Python. </h1>
 
 
 ```
-Implantando os desafios já feitos, agora na web.
 Criar arquivos html base;
 Criar o arquivo Python base;
-Iniciar as alterações;
+Criar segundo arquivo html para os formulários;
+Adicionar a rota nova pro formulário;
+Adicionar nova categoria;
 Criar o Formulário interativo para o usuário;
+Adicionar o botão "Adicionar novo jogo";
 ```
