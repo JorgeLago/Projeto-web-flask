@@ -1,16 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Minha Jogoteca</title>
-    <link rel="stylesheet" href="../static/bootstrap.css">
-</head>
-<body>
-    <div class="container">
-      <div class="page-header">
-          <h1>{{ titulo }}</h1>
-      </div>
+{% extends "principal.html" %}
+{% block conteudo %}
       <form action="/criar" method="post">
         <fieldset>
           <div class="form-group">
@@ -32,6 +21,4 @@
           <button type="submit" class="btn btn-primary btn-salvar">Salvar</button>
         </fieldset>
       </form>
-    </div>
-</body>
-</html>
+{% endblock %}
