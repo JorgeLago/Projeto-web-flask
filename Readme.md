@@ -10,4 +10,8 @@ Adicionar nova categoria;
 Criar o Formulário interativo para o usuário;
 Adicionar o botão "Adicionar novo jogo";
 Excluir Repetição de código;
+Mudar Objetivo do projeto;
+Incluir Login e senha;
+Incluir Verificação de Login;
+Concluir;
 ```
