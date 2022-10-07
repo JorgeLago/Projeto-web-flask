@@ -14,4 +14,8 @@ Mudar Objetivo do projeto;
 Incluir Login e senha;
 Incluir Verificação de Login;
 Concluir;
+
+>> PARA CADASTRAR NOVO PACIENTE, INSIRA \novo, após o final do url no navegador!
+PARA FAZER LOGIN NA PÁGINA, INSIRA : login: lagojorge  e a senha: senha123 <<
+
 ```
