@@ -4,18 +4,18 @@
         <thead>
             <tr>
                 <th>Nome</th>
-                <th>Categoria</th>
-                <th>Console</th>
-                <th>Multiplayer</th>
+                <th>Especialidade</th>
+                <th>Horario</th>
+                <th>Telefone</th>
             </tr>
         </thead>
         <tbody>
-        {% for jogo in jogos %}
+        {% for paciente in paciente %}
                         <tr>
-                            <td>{{ jogo.nome }}</td>
-                            <td>{{ jogo.categoria }}</td>
-                            <td>{{ jogo.console }}</td>
-                            <td>{{ jogo.multiplayer }}</td>
+                            <td>{{ paciente.nome }}</td>
+                            <td>{{ paciente.especialidade }}</td>
+                            <td>{{ paciente.horario }}</td>
+                            <td>{{ paciente.telefone }}</td>
                         </tr>
         {% endfor %}
         </tbody>
