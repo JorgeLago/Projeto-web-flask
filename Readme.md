@@ -1,5 +1,14 @@
 <h1> Agenda de Clientes com horário marcado - Usando conhecimentos em Flask aplicado a Python. </h1>
 
+Projeto com intuito de colocar em prática conhecimentos novos, usando a ferramento Flask. 
+Nos foi dado um prazo de 5 dias para finalizá-lo, e felizmente, consegui.
+foram usados nesse projeto:
+
+-HTML \
+-PYTHON\
+-FLASK\
+-GITHUB
+
 
 ```
 Criar arquivos html base;
