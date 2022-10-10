@@ -8,7 +8,6 @@ Criar segundo arquivo html para os formulários;
 Adicionar a rota nova pro formulário;
 Adicionar nova categoria;
 Criar o Formulário interativo para o usuário;
-Adicionar o botão "Adicionar novo jogo";
 Excluir Repetição de código;
 Mudar Objetivo do projeto;
 Incluir Login e senha;
